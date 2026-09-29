@@ -1,0 +1,65 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+		FA1A2B1C2C9F4E8A00B3C4D5 /* PBXBuildFile */ = {
+			isa = PBXBuildFile;
+			fileRef = FA1A2B1B2C9F4E8A00B3C4D5 /* ContentView.swift */;
+		};
+		FA1A2B1E2C9F4E8A00B3C4D5 /* Assets.xcassets in Resources */ = {
+			isa = PBXBuildFile;
+			fileRef = FA1A2B1D2C9F4E8A00B3C4D5 /* Assets.xcassets */;
+		};
+		FA1A2B212C9F4E8A00B3C4D5 /* Preview Assets.xcassets in Resources */ = {
+			isa = PBXBuildFile;
+			fileRef = FA1A2B202C9F4E8A00B3C4D5 /* Preview Assets.xcassets */;
+		};
+		FA1A2B242C9F4E8A00B3C4D5 /* TravelTimeCalculatorApp.swift in Sources */ = {
+			isa = PBXBuildFile;
+			fileRef = FA1A2B232C9F4E8A00B3C4D5 /* TravelTimeCalculatorApp.swift */;
+		};
+	};
+	fileReferences = {
+		FA1A2B1B2C9F4E8A00B3C4D5 /* ContentView.swift */ = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			path = ContentView.swift;
+			sourceTree = "<group>";
+		};
+		FA1A2B1D2C9F4E8A00B3C4D5 /* Assets.xcassets */ = {
+			isa = PBXFileReference;
+			lastKnownFileType = folder.assetcatalog;
+			path = Assets.xcassets;
+			sourceTree = "<group>";
+		};
+		FA1A2B1F2C9F4E8A00B3C4D5 /* Preview Assets.xcassets */ = {
+			isa = PBXFileReference;
+			lastKnownFileType = folder.assetcatalog;
+			path = "Preview Assets.xcassets";
+			sourceTree = "<group>";
+		};
+		FA1A2B232C9F4E8A00B3C4D5 /* TravelTimeCalculatorApp.swift */ = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			path = TravelTimeCalculatorApp.swift;
+			sourceTree = "<group>";
+		};
+		FA1A2B0B2C9F4E8A00B3C4D5 /* TravelTimeCalculator.app */ = {
+			isa = PBXFileReference;
+			explicitFileType = wrapper.application;
+			includeInIndex = 0;
+			path = TravelTimeCalculator.app;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+	};
+	mainGroup = FA1A2B022C9F4E8A00B3C4D5;
+	productRefGroup = FA1A2B0C2C9F4E8A00B3C4D5 /* Products */;
+	projectDirPath = "";
+	projectRoot = "";
+	targets = (
+		FA1A2B0A2C9F4E8A00B3C4D5 /* TravelTimeCalculator */,
+	);
+}
